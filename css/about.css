@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #010718;
+}
+
+#wrapper {
+	width: 1000px;
+	padding: 20px;
+	margin: 40px auto;
+	background-color: black;
+	border-radius: 10px;
+	min-height: 300px;
+}
+
+
+
+header {
+	font-size: 90px;
+	font-weight: bold;
+	color: white;
+
+}
